@@ -1,4 +1,17 @@
 body {
   max-width: 1200px;
-  margin: auto;
+  margin: auto; 
+  background-image:url(/images/bg.jpg) ;
 }
+h1 {
+  color: green;
+  text-align: center;
+}
+img {
+  width: 10rem;
+  height: 10rem;
+  border: solid;
+  border-color: white;
+}
+
+
